@@ -1,6 +1,6 @@
 {
-    "name": "Mario Testnet Pool",
+    "name": "Mario Mainnet Pool",
     "description": "It's me, Mario.",
     "ticker": "MARIO",
     "homepage": "https://marklario.github.io/af-pools/"
-  }
+}
